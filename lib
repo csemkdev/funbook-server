@@ -1,0 +1,18 @@
+npm install bcrypt --save
+npm install concurrently --save
+npm install cookie-parser --save
+npm install cors --save
+npm install dotenv --save
+npm install express --save
+npm install jsonwebtoken --save
+npm install mongoose --save
+npm install nodemailer --save
+npm install peer --save
+npm install socket.io --save
+
+npm install --save-dev nodemon
+
+npm install googleapis
+npm install otplib
+
+npm install --save @sendgrid/mail
