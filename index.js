@@ -66,7 +66,7 @@ app.post('/contact', (req, res) => {
                 <br/>
 
                 Your Sincerely
-                Mayur Kamble
+                <br/>Mayur Kamble
             `
         })
 
@@ -78,14 +78,14 @@ app.post('/contact', (req, res) => {
                 <br/>
                 <br/>
 
-                ${req.body.fullname} is traying to contact you, Mayur. His queries is:
-                <br/>
-                ${req.body.queries}
+                ${req.body.fullname} is traying to contact you. 
+                <br/>Message: 
+                <br/>${req.body.queries}
                 <br/>
                 <br/>
 
                 Your Sincerely
-                ${req.body.fullname}
+                <br/>${req.body.fullname}
             `
         })
 
