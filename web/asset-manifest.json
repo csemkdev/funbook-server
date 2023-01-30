@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f042f761.css",
+    "main.js": "./static/js/main.746daef7.js",
+    "static/media/images.gif": "./static/media/images.1d7775d4c1e07f57760e.gif",
+    "static/media/backTheme2.png": "./static/media/backTheme2.24f5478809d426d49f3b.png",
+    "static/media/backTheme4.png": "./static/media/backTheme4.8df16d12a47f2c1aba79.png",
+    "static/media/loading.gif": "./static/media/loading.50cd34121c8f8ec54e1b.gif",
+    "static/media/InviteFriend.gif": "./static/media/InviteFriend.b5b11ff2a4eef32d2c40.gif",
+    "static/media/ringring.mp3": "./static/media/ringring.527ab162ac836e173bfd.mp3",
+    "static/media/name.png": "./static/media/name.915f0c4ce01e3ab13e5b.png",
+    "static/media/images.jpeg": "./static/media/images.f80818eb3753702c4c60.jpeg",
+    "static/media/msgTone.mp3": "./static/media/msgTone.c9f1ff7a777ccdf6d2e7.mp3",
+    "index.html": "./index.html",
+    "main.f042f761.css.map": "./static/css/main.f042f761.css.map",
+    "main.746daef7.js.map": "./static/js/main.746daef7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f042f761.css",
+    "static/js/main.746daef7.js"
+  ]
+}
