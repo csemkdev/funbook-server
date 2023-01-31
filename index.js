@@ -55,7 +55,7 @@ app.post('/contact', (req, res) => {
 
         sentMail({
             to: req.body.email,
-            subject: req.body.subject + '| Mail from MAYUR Web Services | ',
+            subject: 'Mail from MAYUR Web Services',
             text: `
                 Hello ${req.body.fullname},
                 <br/>
@@ -72,7 +72,7 @@ app.post('/contact', (req, res) => {
 
         sentMail({
             to: 'cse.mkamble@gmail.com',
-            subject: 'Mail from Your Web Services',
+            subject: req.body.subject + ' | Mail from Your Web Services',
             text: `
                 Dear Mr. Kamble,
                 <br/>
